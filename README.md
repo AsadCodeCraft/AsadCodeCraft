@@ -1,4 +1,4 @@
-<img src="Hi.gif" align="center" width="30"/> <h1> Hi there, I'm Asad Shaikh </h1>
+<h1>🧑‍💻 Hi there, I'm Asad Shaikh </h1>
 
 <img align="right" height="125"  src='./desk.gif'/>
 
