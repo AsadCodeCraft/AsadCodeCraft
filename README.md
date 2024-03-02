@@ -1,6 +1,6 @@
 <img src="Hi.gif" align="center" width="30"/> <h1> Hi there, I'm Asad Shaikh </h1>
 
-<img align="right" height="210"  src='./mario.gif'/>
+<img align="right" height="145"  src='./desk.gif'/>
 
 I'm a passionate  with a solid foundation in B.Sc(IT). As a tech enthusiast, I've ventured through various programming languages. Passion fuels my work, and computers are my canvas.
 
@@ -13,8 +13,9 @@ I've crafted a portfolio of efficient projects, born from academia and imaginati
 - 💡 I believe in the power of coding to solve real-world problems and make our lives better.
 - 📚 I believe in the power of open-source and giving back to the community.
 
+<img align="right" height="145"  src='./desk.gif'/>
 
-### Tech Stack
+### Tech Stack 
 
 I'm proficient in:
 
