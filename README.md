@@ -1,6 +1,6 @@
 <img src="Hi.gif" align="center" width="30"/> <h1> Hi there, I'm Asad Shaikh </h1>
 
-<img align="right" height="145"  src='./desk.gif'/>
+<img align="right" height="125"  src='./desk.gif'/>
 
 I'm a passionate  with a solid foundation in B.Sc(IT). As a tech enthusiast, I've ventured through various programming languages. Passion fuels my work, and computers are my canvas.
 
