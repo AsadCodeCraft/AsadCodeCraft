@@ -2,7 +2,7 @@
 
 <img align="right" height="210"  src='./mario.gif'/>
 
-I'm a passionate  with a solid foundation in Computer Engineering. As a tech enthusiast, I've ventured through various programming languages. Passion fuels my work, and computers are my canvas.
+I'm a passionate  with a solid foundation in B.Sc(IT). As a tech enthusiast, I've ventured through various programming languages. Passion fuels my work, and computers are my canvas.
 
 I've crafted a portfolio of efficient projects, born from academia and imagination.
 
@@ -18,9 +18,7 @@ I've crafted a portfolio of efficient projects, born from academia and imaginati
 
 I'm proficient in:
 
-- 🌐 **Frontend:** `HTML` | `CSS` | `Flask`
-- 🌐 **Backend:** `JavaScript` | `Node.js` | `Express.js`
-- 🛢️ **Databases:** `MySQL` | `Firebase` | `MongoDB`
-- ☁️ **Cloud:** `AWS`
+- 🌐 `HTML` | `CSS` | `Flask` | `JavaScript` | `Node.js` | `Python`
+- 🛢️  `Flask`| `MySQL` | `Firebase` | `MongoDB` | `PowerBI`  
 ---
 ![Bonfire GIF](./BonFire.gif) 
