@@ -13,7 +13,7 @@ I've crafted a portfolio of efficient projects, born from academia and imaginati
 - 💡 I believe in the power of coding to solve real-world problems and make our lives better.
 - 📚 I believe in the power of open-source and giving back to the community.
 
-<img align="right" height="145"  src='./desk.gif'/>
+<img align="right" height="150"  src='./skills.gif'/>
 
 ### Tech Stack 
 
