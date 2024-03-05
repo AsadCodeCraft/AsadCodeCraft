@@ -8,6 +8,8 @@ As a tech enthusiast, I've ventured through various programming languages. Passi
 
 <h2> About Me </h2>
 
+<img align="right" height="150"  src='./skills.gif'/>
+
 - 🔭 I'm currently pursing Msc Data Science & A.I.
 - 🌱 I'm constantly learning and exploring new tech and development trends.
 - 💡 I believe in the power of coding to solve real-world problems and make our lives better.
@@ -20,4 +22,3 @@ I'm proficient in:
 - 🌐 `HTML` | `CSS` | `Flask` | `JavaScript` | `Node.js` | `Python`
 - 🛢️  `Flask`| `MySQL` | `Firebase` | `MongoDB` | `PowerBI`  
 ---
-![Bonfire GIF](./BonFire.gif) 
