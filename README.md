@@ -21,4 +21,5 @@ I'm proficient in:
 
 - 🌐 `HTML` | `CSS` | `Flask` | `JavaScript` | `Node.js` | `Python`
 - 🛢️  `Flask`| `MySQL` | `Firebase` | `MongoDB` | `PowerBI`  
----
+<img src = "https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+
