@@ -1,6 +1,4 @@
-<h1>🧑‍💻 Hi there, I'm Asad Shaikh</h1>
-
-<img align="right" height="125" src="./desk.gif"/>
+<h1> Hi there, I'm Asad Shaikh</h1>
 
 I am a Data Science and Artificial Intelligence postgraduate with a strong foundation in data analysis, machine learning, and backend development. I specialize in transforming complex datasets into meaningful insights and building intelligent, scalable solutions that solve real-world problems using AI and modern web technologies.
 <h2> About Me </h2>
