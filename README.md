@@ -51,12 +51,6 @@ I am a Data Science and Artificial Intelligence postgraduate with a strong found
 - **💬 Natural Language to SQL Chatbot**  
   Converts natural language queries into SQL and generates automated data visualizations.  
   *Tech:* Python, Streamlit, LangChain, Gemini LLM, SQL
-
-### 🏆 Certifications
-
-- 📜 Accenture Data Analytics & Visualization (Forage)
-- 📜 Business Analytics with Excel (Simplilearn)
-
 ---
 
 📫 **Connect with me:**  
